@@ -53,4 +53,4 @@ A chart preseting the route parameters, data direction and **`Repository`** UML 
 
 ### Running and Testing
 
-This application will can be executed with the command `yarn dev` (if you use yarn) or `npm run dev` and can be tested with via Jest.js through the commands `yarn test` or `npm run test`. The server will run on the port `3333` by default. (You can alter it in the `src/server.js` file)
+This application can be executed with the command `yarn dev` (if you use yarn) or `npm run dev` and can be tested with via Jest.js through the commands `yarn test` or `npm run test`. The server will run on the port `3333` by default. (You can alter it in the `src/server.js` file)
